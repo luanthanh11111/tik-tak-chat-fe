@@ -36,7 +36,7 @@ const HomePage = () => {
         style={{ backgroundImage: "transparent", backdropFilter: "blur(10px)" }}
       >
         <Text fontFamily="Amatic SC" fontSize="5xl">
-          Chat app by vợ Loan
+          Chat app by ngu
         </Text>
       </Box>
       <Box
